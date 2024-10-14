@@ -6,7 +6,7 @@ Data pipeline
 This README documents the pipeline used to serve data to the
 [Regional](https://github.kp.org/AKME/nrdp-qhp-regional-dashboard)
 and [Executive
-Summary](https://github.kp.org/AKME/nrdp-qhp-monitoring) QHP
+Summary](https://github.kp.org/AKME/nrdp-qhp-monitoring)
 Monitoring apps.
 
 ## Workflow
